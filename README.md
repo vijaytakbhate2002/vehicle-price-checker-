@@ -27,8 +27,8 @@ This project is a Vehicle Price Checking System powered by Machine Learning. It 
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/vehicle-price-checking.git
-    cd vehicle-price-checking
+    git clone https://github.com/vijaytakbhate2002/vehicle-price-checker-.git
+    cd vehicle-price-checker-.
     ```
 
 2. **Install Dependencies:**
