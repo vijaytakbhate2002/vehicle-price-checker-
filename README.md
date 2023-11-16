@@ -1,5 +1,3 @@
-Certainly! Let's create a README file for your "Vehicle Price Checking System with ML" project.
-
 # Vehicle Price Checking System with ML
 
 ## Overview
@@ -62,6 +60,3 @@ If you would like to contribute or report issues, please refer to the [CONTRIBUT
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out with any questions or feedback!
-
----
-*Note: Replace "your-username" with your actual GitHub username in the repository URL.*
